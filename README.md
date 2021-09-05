@@ -1,2 +1,4 @@
 # hello-world
-my first repository 
+my first repository I know alittle c++ look
+
+cout << "hello world!" << endl; 
